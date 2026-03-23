@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BOT",
+    "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "",
-        "",
-        ""
+        "im hungry",
+        "follow gon_599",
+        "im just a regular player!"
       ]
     },
     "chat-log": true,
