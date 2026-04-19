@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BOT",
+    "username": "BOT.",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Goodcraft_s1.aternos.me",
     "port": ,
-    "version": "",
+    "version": "42923",
     "try-creative": false
   },
   "position": {
